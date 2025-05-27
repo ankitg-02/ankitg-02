@@ -13,7 +13,7 @@
 - 💡 Passionate about **Data Science**, **Machine Learning**, and **Full-Stack Projects**
 - 🛠️ Skilled in: `Python`, `SQL`, `Power BI`, `Excel`, `Pandas`, `Scikit-learn`
 - 📊 Working on real-world **data analysis & prediction** projects
-- 📬 Reach me at: [ankitg.example@gmail.com](mailto:ankitg.example@gmail.com)
+- 📬 Reach me at: [ankitg.example@gmail.com](mailto:ankit.gochhayat2004@gmail.com)
 
 ---
 
