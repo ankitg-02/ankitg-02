@@ -33,10 +33,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Cryptocurrency Analyzer](https://github.com/ankitg-02/crypto-analysis) | Full-stack ML app to analyze and predict crypto trends | Python, Docker, Flask |
-| [Social Media Sentiment Dashboard](https://github.com/ankitg-02/social-media-sentiment-dashboard) | Streamlit dashboard to analyze user satisfaction | Streamlit, Plotly |
-| [Product Recommendation Engine](https://github.com/ankitg-02/product-recommender) | Collaborative filtering-based recommendation system | Python, ML |
-| [Blog Website with Flask](https://github.com/ankitg-02/flask-blog) | Blog app with user login & rich UI | Flask, SQLAlchemy, Bootstrap |
+| [Cryptocurrency Analyzer](https://github.com/ankitg-02/CryptoCurrency-Analysis) | Full-stack ML app to analyze and predict crypto trends | Python, Docker, Flask |
+| [Social Media Analysis Dashboard](https://github.com/ankitg-02/Social-Media) | Streamlit dashboard to analyze user satisfaction | Streamlit, Plotly |
+| [Student Performance Indicator](https://github.com/ankitg-02/Social-Media) | Full-stack ML app to analysis and predict student performance | Python, ML |
+| [Blog Website with Flask](https://github.com/ankitg-02/FLASK/tree/main/Project2) | Blog app with user login & rich UI | Flask, SQLAlchemy, Bootstrap |
 
 ---
 
