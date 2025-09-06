@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Information Technology @ VSSUT Burla
-- 💡 Passionate about **Data Science**, **Machine Learning**, and **Full-Stack Projects**
-- 🛠️ Skilled in: `Python`, `SQL`, `Power BI`, `Excel`, `Pandas`, `Scikit-learn`
-- 📊 Working on real-world **data analysis & prediction** projects
-- 📬 Reach me at: [ankitg.gochhayat2004@gmail.com](mailto:ankit.gochhayat2004@gmail.com)
+- 🎓 Pursuing B.Tech in Information Technology @ VSSUT Burla  
+- 💡 Passionate about **Data Science**, **Machine Learning**, and **Full-Stack Projects**  
+- 🛠️ Skilled in: `Python`, `SQL`, `Power BI`, `Excel`, `Pandas`, `Scikit-learn`, `Scala`  
+- 📊 Working on real-world **data analysis & prediction** projects  
+- 📬 Reach me at: [ankitg.gochhayat2004@gmail.com](mailto:ankit.gochhayat2004@gmail.com)  
 
 ---
 
@@ -26,6 +26,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat)
 
 ---
 
@@ -47,4 +48,3 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitg-02&theme=radical" />
 </p>
-
